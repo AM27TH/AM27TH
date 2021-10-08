@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Anghel Trillo 👋
 
 <!--
 **AM27TH/AM27TH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Anghel's GitHub stats](https://github-readme-stats.vercel.app/api?username=am27th&theme=radical)](https://github.com/am27th/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am27th&layout=compact&theme=radical)](https://github.com/am27th/github-readme-stats)
 
-
+##
 ![snake](https://github.com/AM27TH/AM27TH/blob/output/github-contribution-grid-snake.svg)
